@@ -1,0 +1,63 @@
+table, th, td 
+{
+border: 2px solid white;
+color: white;
+margin-left: auto;
+margin-right: auto;
+margin-top: 50px;
+margin-bottom: 30px;
+} 
+body 
+{
+background-color:black;
+}
+/*This is a Comment*/
+h1 
+{
+color:white;
+border: 3px solid white;
+border-style: double;
+border-width: 10px;
+font-family: "Impact", Charcoal, sans-serif;
+background-color:red;
+margin: auto;
+text-align: center;
+    
+}
+ul 
+{
+list-style-type: square;
+margin: auto;
+text-align: center;
+}
+p 
+{
+font-family: "Lucida Sans Unicode", Lucida Grande, sans-serif;
+color:white;
+text-align: center;
+}
+.white
+{
+color:white;
+text-align: center;
+}
+.border
+{
+border: 2px solid white;
+border-style: double;
+border-width: 5px;
+background-color:red;
+font-size: 120%;
+margin: auto; 
+}
+.image
+{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+
+
+
+
